@@ -1,0 +1,20 @@
+﻿IOC_Type,Indicator,Description
+SHA256,933bee136c21e0fbe60bab51dfdffa93562517ff46c03f82ea008c8a21f51d58,Trojanized DockerDesktop.exe - First stage
+SHA256,40699fc8aa30d107a08a5781440c6de747755f4d985a3c055fae1fd50253e4cc,Trojanized DockerDesktop.exe - First stage
+SHA256,a49c925ea7eb30cd96a146cc9b223931c64a8c7c5cffd42e9017e579e650a49,Trojanized DockerDesktop.exe - First stage
+SHA256,65bd49adae0b6d6cfe7561f241b70fdf747fad4e89596fd0af226f86701d6687,Trojanized GitHubDesktop.exe - First stage
+SHA256,e5fdbcae36f8b61535f5ad44e5aaaf9a948aa67cbb5dffcdd7346bd4a335865f,Trojanized GitHubDesktop.exe - First stage
+SHA256,9a6be8224c64c27e219d597447da8e23793f902454d587cf81c75aa8b185a94b,Trojanized GoogleChrome.exe - First stage
+SHA256,bcbad33508877a251ed1036513fed0885261822fccb71b885551fbb67b8d5ea1,Second stage .NET dropper
+SHA256,480bac70177f5254a1913ced65792b274d71d89753e48c0f8f02bae24d496f57,Second stage .NET dropper
+SHA256,bd869efa37e66ced7103d74788171b5e4e7e861d60188a27e9053d74cd90df93,Second stage .NET dropper
+SHA256,c00142c750b6343367592a3441766a7d55c3dd68664d1d8ed3cdd62935a54e3e,Second stage .NET dropper
+SHA256,b1786bf059c7a18bc09bca9df889ae4cea4ad567d85e933b8b5fb08ba908460e,Second stage .NET dropper
+SHA256,fde568f10d73085737e06a6eee4c68c76777c9568fae6c45e7cb5730405c49ba,Second stage .NET dropper
+URL,hxxps://hub[.]docker[.]com/r/ie8099045/desktop,Malicious Docker Hub repository
+URL,hxxps://hub[.]docker[.]com/r/losiausowrer/desktop,Malicious Docker Hub repository
+URL,hxxps://sct12[.]app[.]link/yOtOs4cPEUb,Malicious redirector
+URL,hxxps://deskdo[.]onelink[.]me/tgUI/1kvpgyh9,Malicious redirector
+Domain,jonb.my,Payload delivery domain
+Domain,pwdkd.com,Payload delivery domain
+Domain,ofiwuqc.online,Payload delivery domain
